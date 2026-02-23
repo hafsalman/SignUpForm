@@ -24,7 +24,7 @@ The app allows users to enter their details and validates the inputs before subm
 git clone https://github.com/hafsalman/SignUpForm
 ```
 
-### 2️⃣ Install Dependencies 
+### 2️⃣ Initialize Expo Project
 
 ``` bash
 npx create-expo-app SignUp --template expo-template-blank
